@@ -1,0 +1,1 @@
+//test each of the method properties in the employee class > all should pass
